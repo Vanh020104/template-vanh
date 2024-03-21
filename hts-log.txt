@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Mar 2024 15:32:40 at https://livedemo00-joomla.template-help.com/joomla_prod-16454/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://livedemo00-joomla.template-help.com/joomla_prod-16454/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://livedemo00-joomla.template-help.com/joomla_prod-16454/ -O1 "C:\Users\vietanh\Documents\template-vanh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://livedemo00-joomla.template-help.com/joomla_prod-16454/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:36:04	Error: 	"Forbidden" (403) at link https://livedemo00-joomla.template-help.com/joomla_prod-16454/templates/theme3597/js/ (from https://livedemo00-joomla.template-help.com/joomla_prod-16454/)
+15:39:40	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://livedemo00-joomla.template-help.com/joomla_prod-16454/)
+15:39:41	Warning: 	File not parsed, looks like binary: https://livedemo00-joomla.template-help.com/joomla_prod-16454/templates/theme3597/fonts/glyphicons-halflings-regular.woff2
+15:39:42	Warning: 	File not parsed, looks like binary: https://livedemo00-joomla.template-help.com/joomla_prod-16454/templates/theme3597/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+15:39:43	Warning: 	File not parsed, looks like binary: https://livedemo00-joomla.template-help.com/joomla_prod-16454/templates/theme3597/fonts/material-icons/fonts/MaterialIcons-Regular.woff2
+15:39:43	Error: 	"Not Found" (404) at link https://livedemo00-joomla.template-help.com/joomla_prod-16454/https%3A%2F%2Flivedemo00-joomla.template-help.com%2Fjoomla_prod-16454%2Findex.php (from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php)
+15:39:43	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/templates/theme3597/js/
+15:39:43	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:41:26	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/departments/templates/theme3597/js/
+15:41:26	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/departments/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:41:26	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/templates/theme3597/js/
+15:41:26	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:43:05	Warning: 	Link https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/main-forum not scanned (follow robots meta tag)
+15:43:09	Warning: 	Link https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/suggestion-box not scanned (follow robots meta tag)
+15:43:09	Warning: 	Link https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/kunena-the-communication-platform-for-joomla not scanned (follow robots meta tag)
+15:43:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://livedemo00-joomla.template-help.com/joomla_prod-16454/images/portfolio/project-thumb6.jpg (from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/portfolio)
+15:43:33	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/elements/templates/theme3597/js/
+15:43:33	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/elements/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:45:44	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/history/templates/theme3597/js/
+15:45:44	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/history/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:46:10	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/templates/theme3597/js/
+15:46:10	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:46:10	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/welcome-mat/templates/theme3597/js/
+15:46:10	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/welcome-mat/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:46:12	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/ideal-forum/templates/theme3597/js/
+15:46:12	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/ideal-forum/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:46:12	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/user/templates/theme3597/js/
+15:46:12	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/user/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:46:13	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/more-about-the-kunena/templates/theme3597/js/
+15:46:13	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/forum/more-about-the-kunena/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:47:53	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/careers/templates/theme3597/js/
+15:47:53	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/pages/careers/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:49:53	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/component/tags/tag/templates/theme3597/js/
+15:49:53	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/component/tags/tag/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:50:44	Warning: 	Found for https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/about-us/templates/theme3597/js/
+15:50:44	Warning: 	File has moved from https://livedemo00-joomla.template-help.com/joomla_prod-16454/index.php/about-us/templates/theme3597/js/ to /joomla_prod-16454/index.php/404
+15:56:35	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 minutes 58 seconds : 1503 links scanned, 1485 files written (77034731 bytes overall) [51059183 bytes received at 35507 bytes/sec], 36339145 bytes transferred using HTTP compression in 894 files, ratio 23%, 28.8 requests per connection
+(4 errors, 33 warnings, 0 messages)
